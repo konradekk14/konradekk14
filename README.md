@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Konrad K!
+# 👋 Hi, I'm Konrad Kapusta
 
 🎓 **Computer Science Student** at **San Diego State University**  
 ⚡ Passionate about **Computer Vision, Human-Robot Interaction, and Machine Learning**  
