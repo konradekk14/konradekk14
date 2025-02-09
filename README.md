@@ -5,6 +5,6 @@
 
 ## 🌟 About Me  
 - 🏀 I enjoy **sports**, **adventures**, and exploring the intersection of technology and the real world 🌍  
-- 🤖 Excited by the future of AI, robot-human interaction, and computer vision
+- 🤖 Excited by the future of AI and robotics
 - 🚀 Always looking to learn and build cool projects!  
 
