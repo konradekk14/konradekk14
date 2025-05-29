@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Konrad Kapusta
 
-🎓 **Computer Science Student** at **San Diego State University**  
+🎓 **Bachelor's in Computer Science** from **San Diego State University**  
 ⚡ Passionate about **Computer Vision, Human-Robot Interaction, and Machine Learning**  
 
 ## About Me  
